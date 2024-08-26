@@ -1,0 +1,57 @@
+{
+	"name": "ProNumberApp",
+	"short_name": "pro-number-app",
+	"description": "App to generate pro numbers.",
+	"icons": [
+		{
+			"src": "/APP/PRONUMBERAPP/android-chrome-192x192.png",
+			"sizes": "192x192",
+			"type": "image/png",
+			"purpose": "any"
+		},
+		{
+			"src": "/APP/PRONUMBERAPP/android-chrome-512x512.png",
+			"sizes": "512x512",
+			"type": "image/png",
+			"purpose": "any"
+		},
+		{
+			"src": "/APP/PRONUMBERAPP/apple-touch-icon.png",
+			"sizes": "180x180",
+			"type": "image/png",
+			"purpose": "any"
+		},
+		{
+			"src": "/APP/PRONUMBERAPP/android-chrome-144x144.png",
+			"sizes": "144x144",
+			"type": "image/png",
+			"purpose": "any"
+		}
+	],
+	"screenshots": [
+		{
+			"src": "/APP/PRONUMBERAPP/screenshot2.webp",
+			"sizes": "1367x637",
+			"type": "image/webp",
+			"form_factor": "wide",
+			"label": "List of Awesome Resources available in ProNumberApp"
+		},
+		{
+			"src": "/APP/PRONUMBERAPP/screenshot2.webp",
+			"sizes": "1367x637",
+			"type": "image/webp",
+			"label": "List of Awesome Resources available in ProNumberApp"
+		}
+	],
+	"theme_color": "#171717",
+	"background_color": "#e8ebf2",
+	"display_override": [
+		"fullscreen",
+		"minimal-ui"
+	],
+	"display": "standalone",
+	"scope": "/APP/PRONUMBERAPP/",
+	"start_url": "/APP/PRONUMBERAPP/",
+	"orientation": "portrait",
+	"id": "/APP/PRONUMBERAPP/"
+}

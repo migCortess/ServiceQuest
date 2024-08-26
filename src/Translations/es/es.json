@@ -1,0 +1,29 @@
+{
+  "HasErrorInServer": "Ha Ocurrido un error en el servidor",
+  "CurrentLenguaje": "ES-MX",
+  "Esp": "ES-MX",
+  "Eng": "EN-USA",
+  "DataTableCeroRowsMsg": "No hay Datos Para Mostrar",
+  "rowsPerPageText": "Registros por Pagina:",
+  "rangeSeparatorText": "De",
+  "selectAllRowsItemText": "Todo",
+  "Export": "Exportar a Excel",
+  "ChooseFile": "Cargar Archivo",
+  "Required": "Requerido",
+  "NotFindOption": "No se encontraron opciones",
+  "6505": "Desarrollado por 6505",
+  "Error": "Ha surgido un error al realizar la operación",
+  "Login": {
+    "LogOut": "Cerrar Sesión",
+    "Login": "Iniciar Sesión",
+    "User": "Usuario",
+    "Password": "Contraseña",
+    "LoginSession":"Iniciando sesión",
+    "ForgotPassword": "¡Olvide mi Contraseña!",
+    "CurrentLenguaje": "Lenguaje",
+    "Esp": "ES-MX",
+    "Eng": "EN-US",
+    "UserPassIncorrect":"El nombre de usuario o la contraseña son incorrectos",
+    "USER_OR_TEAM_DOESNT_EXIST": "Usuario no existe"
+  }
+}

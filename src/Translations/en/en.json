@@ -1,0 +1,27 @@
+{
+  "HasErrorInServer": "An error has occurred on the server",
+  "CurrentLenguaje": "EN-USA",
+  "Esp": "ES-MX",
+  "Eng": "EN-USA",
+  "DataTableCeroRowsMsg": "No data to display",
+  "rowsPerPageText": "Rows per Page:",
+  "rangeSeparatorText": "Of",
+  "selectAllRowsItemText": "All",
+  "Export": "Export to Excel",
+  "ChooseFile": "Upload File",
+  "6505": "Developed by 6505",
+  "Login": {
+    "Welcome":"Welcome",
+    "LoginSession":"Login Session",
+    "LogOut": "Logout",
+    "Login": "Login",
+    "User": "User",
+    "Password": "Password",
+    "ForgotPassword": "Forgot password!",
+    "CurrentLenguaje": "Current Lenguaje",
+    "Esp": "ES-MX",
+    "Eng": "EN-US",
+    "UserPassIncorrect":"The username or password are incorrect" ,
+    "USER_OR_TEAM_DOESNT_EXIST": "Usuario no existe"
+  }
+}
